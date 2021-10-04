@@ -28,5 +28,6 @@ Example 👇
 
 ## Resources
 
-[readLineSync](https://www.npmjs.com/package/readline-sync)
-[CHALK](https://www.npmjs.com/package/chalk)
+- [readLineSync](https://www.npmjs.com/package/readline-sync)
+
+- [CHALK](https://www.npmjs.com/package/chalk)
